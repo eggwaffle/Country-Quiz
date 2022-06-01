@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://front-end-dev-challenges.web.app/country-quiz/">
+    <a href="https://eggwaffle.github.io/Country-Quiz/">
       Demo
     </a>
     <span> | </span>
