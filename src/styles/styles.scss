@@ -1,0 +1,15 @@
+.app {
+  @apply h-screen grid justify-center;
+}
+
+.main {
+  @apply m-0;
+}
+
+.card {
+  @apply px-8 py-16 rounded-3xl bg-white;
+}
+
+.footer {
+  @apply absolute bottom-0 w-full py-6 font-montserrat text-sm text-center text-A9A9A9;
+}
