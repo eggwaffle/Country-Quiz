@@ -24,6 +24,9 @@
   <a href="https://create-react-app.dev">
     <img src="https://img.shields.io/badge/Create%20React%20App-brightgreen?style=for-the-badge" alt="Create React App" />
   </a>
+  <a href="https://www.typescriptlang.org">
+    <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge" alt="Typescript" />
+  </a>
   <a href="https://tailwindcss.com">
     <img src="https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge" alt="TailwindCSS" />
   </a>
